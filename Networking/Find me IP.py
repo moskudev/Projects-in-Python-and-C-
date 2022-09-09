@@ -2,9 +2,9 @@ from urllib.request import urlopen
 import json
 import re
 
-# Get Public IP
 
 
+# Get Public IP The web page to obtain the IP can be changed to personal taste.
 def getPublicIP():
     data = str(urlopen('http://checkip.dyndns.com/').read())
     return re.compile(r'Address: (\d+.\d+.\d+.\d+)').search(data).group(1)
