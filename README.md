@@ -9,7 +9,7 @@ Python:
 
 
 C++:
-https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/blob/master/C++/Kei_Shirogane_crying_CPP.png?raw=true
+![image](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/blob/master/C++/Kei_Shirogane_crying_CPP.png)
 
 Hope you have fun.
 
